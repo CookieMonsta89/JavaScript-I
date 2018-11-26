@@ -6,7 +6,7 @@
   object name, diet, weight, length, period
 */
 
-// tyrannosaurus, carnivorous, 7000kg, 12m, Late Cretaceious
+// tyrannosaurus, carnivorous, 7000kg, 12m, Late Cretace
 const tyrannosaurus = {
   name: 'T-Rex',
   diet: 'Carnivore',
